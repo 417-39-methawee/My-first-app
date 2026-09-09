@@ -102,4 +102,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 
 st.divider()
-  st.write("นางสาวเมทาวี คุณยศยิ่ง เลขที่ 39 ม.4/17")
+st.write("นางสาวเมทาวี คุณยศยิ่ง เลขที่ 39 ม.4/17")
